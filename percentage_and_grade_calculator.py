@@ -117,3 +117,6 @@ social_studies_entry.place(x=250,y=230)
 # placing a calculate button in window
 button = Button(text="Calculate",font=("times new roman",15),bg="grey",bd=5,command=calculate)
 button.place(x=200,y=450)
+
+
+
